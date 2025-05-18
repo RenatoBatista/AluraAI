@@ -60,7 +60,7 @@ Este projeto é um assistente virtual interativo, construído em Python e execut
 
 ## Modelo de IA Utilizado
 
-* O assistente utiliza, por padrão, o modelo `gemini-1.5-flash-latest` da API Gemini do Google.
+* O assistente utiliza, por padrão, o modelo `gemini-2.5-flash-preview-04-17` da API Gemini do Google.
 
 ## Observações
 
